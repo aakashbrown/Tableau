@@ -1,1 +1,9 @@
 # Tableau
+
+Analysis on Tableau Report
+
+There have been a total of 689,235 rides on 1,522 bikes from the period of 9/21/2015 to 6/30/2018. The average trip duration during this time period is 10.67 minutes. The primary ridership is from males aged between 31-40 years old. From September 15th 2015, there are aboout 7 times the amount of riders in June 2018. The growth from approximately 6000 to 41000 can be attributed gas costs increasing, increase in housing costs that make cars even less of an economic advantage and general infrastructure rebuilding.
+
+Most trips were short trips, which were again predominantly from men ages 31-40. Mpst pf these trips occured at Grove St Path in Hamilton Park station. The reason for this could be due to the fct that there is a trainstation less than a block from the citi bike station. Use due to proximity can be a major determinant. Convenience often wins out, especially during months that are colder. In addition, the station is near a park, one which has heavy foot traffic in Jersey City. The near 18000 rides cast a large shadow over the next highest amount of rides, which were at Brunswick St and Grove Path St. 
+
+An oddity I encountered in this data is that i would have expected the age groups of those younger than 30 being the primary users of the Citi Bike program. As one ages and either acucmulates more resources and wealth, convenience of a car may seem more appealing. A reasonable explanation for this is that ride share services such as Uber and Lyft could be more productive replacements for the Citi bikes. As I myself have contemplated the cost of a $8 Uber ride where I was going to be safer or spending six dollars on a bike ride that is going to be a lot colder.    
